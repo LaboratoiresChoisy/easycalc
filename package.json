@@ -15,7 +15,7 @@
     "build:mac": "electron-builder build --mac -p never"
   },
   "devDependencies": {
-    "electron": "^7.1.2",
+    "electron": "^7.2.4",
     "electron-builder": "^21.2.0"
   },
   "build": {
@@ -50,7 +50,7 @@
   "dependencies": {
     "build": "^0.1.4",
     "electron-log": "^3.0.9",
-    "electron-updater": "^4.2.0",
+    "electron-updater": "^4.3.1",
     "jquery": "^2.2.4"
   }
 }
