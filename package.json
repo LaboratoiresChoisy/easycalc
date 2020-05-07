@@ -45,7 +45,11 @@
           "**/*"
         ]
       }
-    ]
+    ],
+    "win": {
+        "publisherName": "Laboratoires Choisy Lt�e",
+        "verifyUpdateCodeSignature": false
+    }
   },
   "dependencies": {
     "build": "^0.1.4",
