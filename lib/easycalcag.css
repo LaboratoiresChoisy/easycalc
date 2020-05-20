@@ -131,6 +131,10 @@ textarea{
         width: 110px !important;
     }
 
+    #logo.sanicoopa {
+        top: 11px !important;
+    }
+
     #applogo{
         top: 10px !important;
         right: 7px !important;
@@ -446,6 +450,10 @@ textarea{
     left: -11px;
     width: 134px;
     float: left;
+}
+
+#logo.sanicoopa {
+    top: 18px;
 }
 
 #santa{
@@ -4997,7 +5005,7 @@ select.tableCell{
     position: absolute;
     right: 50px;
     bottom: 35px;
-    width: 170px;
+    height: 53px;
 }
 
 .sheetlogofooterDistrib{
